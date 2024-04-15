@@ -1,0 +1,24 @@
+.bg-container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: roboto;
+}
+. main-h {
+  font-size: 35px;
+  color: #2d3a35;
+}
+.count-h {
+  font-size: 35px;
+  color: #c20a72;
+}
+.click-me-button{
+  background-color: #007bff ;
+  padding: 10px;
+  border-radius: 5px;
+  color: #f1f5f8;
+}
+
